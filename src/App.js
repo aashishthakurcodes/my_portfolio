@@ -26,10 +26,9 @@ function App() {
 					}}
 					className='logoStart'
 				>
-					<img style={{width:'32%',height:'71%',borderRadius:"50%",border:"2px solid white"}}
-						src={logo}
-						alt='logo'
-					/>
+					<img style={{width: 100, height: 100, borderRadius: '50%', border: '2px solid white'}} src={logo} alt="logo" />
+
+
 				</div>
 			) : (
 				<div className='components'>
