@@ -4,6 +4,8 @@ import WindowSize from '../../Utils/WindowSize';
 import styles from './About.module.css';
 import aboutGif from '../../assets/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif'
 
+
+//Replace Resume
 const About = () => {
 	const { newTheme } = React.useContext(ThemeContext);
 	const [width] = WindowSize();
