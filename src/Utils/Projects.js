@@ -26,5 +26,13 @@ export const projects = [
 		live: 'https://fsjs-2-0-react-project.vercel.app/',
 		gitHub: 'https://github.com/aashishthakurcodes/FSJS_2.0_REACT_PROJECT',
 		technologies: [ 'HTML,', 'CSS,','and', 'JavaScript'],
+	},
+	{
+		img: project4,
+		title: 'Super Charged || NEXT',
+		des: 'A simple Next.js project with a beautiful UI using Acceternity UI.',
+		live: 'https://nextjssupercharged-9379286g0-j9183208gmailcoms-projects.vercel.app/',
+		gitHub: 'https://github.com/aashishthakurcodes/nextjs',
+		technologies: [ 'Next.Js','Accertinity Ui'],
 	}
 ];
