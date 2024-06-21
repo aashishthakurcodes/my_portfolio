@@ -1,6 +1,7 @@
 import project1 from '../Utils/Screenshot 2023-08-31 163253.png'
 import project2 from '../Utils/Screenshot 2023-08-31 163938.png'
 import project3 from '../Utils/Screenshot 2023-08-31 164913.png'
+import project4 from '../Utils/Screenshot 2024-06-09 141451.png'
 
 export const projects = [
 	{
